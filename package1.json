@@ -1,0 +1,24 @@
+{
+  "name": "npmcourse",
+  "version": "1.0.0",
+  "description": "Construir un paquete para node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edu117/NpmCourse.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "package"
+  ],
+  "author": "Eduardo Martinez <eduardh@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edu117/NpmCourse/issues"
+  },
+  "homepage": "https://github.com/edu117/NpmCourse#readme"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "npmcourse",
+  "version": "1.0.0",
+  "description": "Curso de gestión de dependencias y paquetes con NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edu117/NpmCourse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edu117/NpmCourse/issues"
+  },
+  "homepage": "https://github.com/edu117/NpmCourse#readme"
+}
